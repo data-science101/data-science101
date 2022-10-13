@@ -12,7 +12,7 @@
      <li>Muay Thai</li>
      <li>Magic the Gathering</li>
      <li>RPG</li>
-     <li>Developing "useless" stuff(lol) like Web Scraping song lyrics and turning them into images</li>
+     <li>Developing "useless" stuff(lol) like Web Scraping song lyrics and turning them into images or fetching WhatsApp group chats to discover who is the person that sends the most messages</li>
     </ul>
   </li>
 </ul>
