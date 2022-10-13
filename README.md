@@ -8,7 +8,9 @@
      <li>Traveling</li>
      <li>Reading</li>
      <li>Drums</li>
+     <li>Muay Thai</li>
      <li>Magic the Gathering</li>
+     <li>RPG</li>
     </ul>
   </li>
 </ul>
