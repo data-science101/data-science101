@@ -42,6 +42,4 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
 </ul>
 
-<img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="30%"/>
-
 ![](https://komarev.com/ghpvc/?username=data-science101&color=dc143c)
