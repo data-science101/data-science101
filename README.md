@@ -1,14 +1,16 @@
 ### Hi there, my name is Felipe, I'm a Data Scientist from Brazil.
-🌱 I’m currently learning Python and JavaScript
-👯 I’m looking to collaborate on companies that want to change the world
-💬 My passions:
 <ul>
-<li>Learning new stuff</li>
-<li>Traveling</li>
-<li>Drums</li>
-<li>Magic the Gathering</li>
+  <li>🌱 I’m currently learning Python and JavaScript</li>
+  <li>👯 I’m looking to collaborate on companies that want to change the world</li>
+  <li>💬 My passions:
+    <ul>
+     <li>Learning new stuff</li>
+     <li>Traveling</li>
+     <li>Drums</li>
+     <li>Magic the Gathering</li>
+  </ul>
+    </li>
 </ul>
-
 ![](https://komarev.com/ghpvc/?username=data-science101&color=dc143c)
 
 <!--
