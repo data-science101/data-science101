@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=data-science101&color=dc143c)
 
 <!--
 **data-science101/data-science101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
