@@ -1,24 +1,36 @@
 ### Hi there, my name is Felipe, I'm a Data Scientist from 🇧🇷
-<ul>
-  <li>🌱 I’m currently learning Machine Learning, Python and Big Data</li>
-  <li>👯 I'm looking to collaborate with companies that want to change the world</li>
-  <li>💬 My passions:
-    <ul>
-     <li>💡 Learning new stuff</li>
-     <li>🛫 Traveling</li>
-     <li>📖 Reading</li>
-     <li>🎧 Music</li>
-     <li>🥁 Drums</li>
-     <li>🥊 Muay Thai</li>
-     <li>🎴 Magic the Gathering</li>
-      <li>🎲 RPG</li>
-    </ul>
-  </li>
-</ul>
 
- 🤙 Fun fact: I love to develop "useless"(lol, and usefull too, of course) stuff like Web Scraping song lyrics and turning them into images at scale or fetching WhatsApp group chat messages to find out who is the person that kills everyone productivity hahahaha.
+<h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
 
-#### Stuff I love/use:
+```python
+name = "Felipe"
+current_job = "Data Scientist"
+looking_to = "Collaborate with companies that want to change the world"
+
+currently_learning = [
+  "Machine Learning",
+  "Deep Learning",
+  "Python",
+  "Big Data"
+]
+
+passions = [
+  "Learning new stuff",
+  "Traveling",
+  "Reading",
+  "Music", 
+  "Drums",
+  "Muay Thai",
+  "Magic the Gathering",
+  "RPG"
+]
+
+```
+
+<h2>🤙 Fun fact:</h2>
+I love to develop "useless"(lol, and usefull too, of course) stuff like Web Scraping song lyrics and turning them into images at scale or fetching WhatsApp group chat messages to find out who is the person that kills everyone productivity hahahaha.
+
+<h2>Stuff I love/use:</h2>
 <ul>
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -42,5 +54,14 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
 </ul>
+  
+---  
+
+
+<h2> 📈 &nbsp;GitHub History</h2>
+<a href="https://github.com/data-science101">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=data-science101&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-science101&theme=noctis_minimus&layout=compact" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=data-science101&color=dc143c)
