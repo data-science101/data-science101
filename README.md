@@ -6,6 +6,7 @@
     <ul>
      <li>Learning new stuff</li>
      <li>Traveling</li>
+     <li>Reading</li>
      <li>Drums</li>
      <li>Magic the Gathering</li>
   </ul>
