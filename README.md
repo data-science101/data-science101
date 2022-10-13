@@ -12,6 +12,7 @@
      <li>Muay Thai</li>
      <li>Magic the Gathering</li>
      <li>RPG</li>
+     <li>Developing "useless" stuff(lol) like Web Scraping song lyrics and turning them into images</li>
     </ul>
   </li>
 </ul>
