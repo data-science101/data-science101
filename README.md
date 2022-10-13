@@ -1,7 +1,7 @@
 ### Hi there, my name is Felipe, I'm a Data Scientist from Brazil
 <ul>
   <li>🌱 I’m currently learning Machine Learning, Python and Big Data</li>
-  <li>👯 I'm looking to collaborate with companies that want to change the world/li>
+  <li>👯 I'm looking to collaborate with companies that want to change the world</li>
   <li>💬 My passions:
     <ul>
      <li>Learning new stuff</li>
