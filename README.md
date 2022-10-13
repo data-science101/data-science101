@@ -1,21 +1,22 @@
-### Hi there, my name is Felipe, I'm a Data Scientist from Brazil
+### Hi there, my name is Felipe, I'm a Data Scientist from 🇧🇷
 <ul>
   <li>🌱 I’m currently learning Machine Learning, Python and Big Data</li>
   <li>👯 I'm looking to collaborate with companies that want to change the world</li>
   <li>💬 My passions:
     <ul>
-     <li>Learning new stuff</li>
-     <li>Traveling</li>
-     <li>Reading</li>
-     <li>Music</li>
-     <li>Drums</li>
-     <li>Muay Thai</li>
-     <li>Magic the Gathering</li>
-     <li>RPG</li>
-     <li>Developing "useless" stuff(lol) like Web Scraping song lyrics and turning them into images or fetching WhatsApp group chats to discover who is the person that sends the most messages</li>
+     <li>💡 Learning new stuff</li>
+     <li>🛫 Traveling</li>
+     <li>📖 Reading</li>
+     <li>🎧 Music</li>
+     <li>🥁 Drums</li>
+     <li>🥊 Muay Thai</li>
+     <li>🎴 Magic the Gathering</li>
+      <li>🎲 RPG</li>
     </ul>
   </li>
 </ul>
+
+ 🤙 Fun fact: I love to develop "useless"(lol, and usefull too, of course) stuff like Web Scraping song lyrics and turning them into images at scale or fetching WhatsApp group chat messages to find out who is the person that kills everyone productivity hahahaha.
 
 #### Stuff I love/use:
 <ul>
