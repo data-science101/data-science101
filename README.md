@@ -1,7 +1,7 @@
 ### Hi there, my name is Felipe, I'm a Data Scientist from Brazil.
-- 🌱 I’m currently learning Python and JavaScript
-- 👯 I’m looking to collaborate on companies that want to change the world
-- 💬 My passions:
+🌱 I’m currently learning Python and JavaScript
+👯 I’m looking to collaborate on companies that want to change the world
+💬 My passions:
 <ul>
 <li>Learning new stuff</li>
 <li>Traveling</li>
