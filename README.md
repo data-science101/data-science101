@@ -57,11 +57,4 @@ I love to develop "useless"(lol, and usefull too, of course) stuff like Web Scra
   
 ---  
 
-
-<h2> 📈 &nbsp;GitHub History</h2>
-<a href="https://github.com/data-science101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=data-science101&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-science101&theme=noctis_minimus&layout=compact" />
-</a>
-
 ![](https://komarev.com/ghpvc/?username=data-science101&color=dc143c)
