@@ -1,4 +1,4 @@
-### Hi there, my name is Felipe, I'm a Data Scientist from 🇧🇷
+### Hi there, my name is Felipe, I'm an AI Software Engineer from 🇧🇷
 
 <h2>👨🏻‍💻 &nbsp;A little bit about me</h2>
 
