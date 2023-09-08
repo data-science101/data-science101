@@ -4,7 +4,7 @@
 
 ```python
 name = "Felipe"
-current_job = "Data Scientist"
+current_job = "AI Software Engineert"
 looking_to = "Collaborate with companies that want to change the world"
 
 currently_learning = [
