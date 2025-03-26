@@ -7,13 +7,6 @@ name = "Felipe"
 current_job = "AI Software Engineer"
 looking_to = "Collaborate with companies that want to change the world"
 
-currently_learning = [
-  "Machine Learning",
-  "Deep Learning",
-  "Python",
-  "Big Data"
-]
-
 passions = [
   "Learning new stuff",
   "Traveling",
@@ -28,7 +21,7 @@ passions = [
 ```
 
 <h2>🤙 Fun fact:</h2>
-I love to develop "useless"(lol, and usefull too, of course) stuff like Web Scraping song lyrics and turning them into images at scale or fetching WhatsApp group chat messages to find out who is the person that kills everyone productivity hahahaha.
+I love to develop "useless"(lol, and usefull too, of course) stuffs like Web Scraping song lyrics and turning them into images at scale or fetching WhatsApp group chat messages to find out who is the person that kills everyone productivity hahahaha.
 
 <h2>Stuff I love/use:</h2>
 <ul>
